@@ -1,8 +1,12 @@
 package aorquerab;
 
+import aorquerab.functionalprogramming.FP;
+
 public class App {
 
     public static void main(String[] args) {
-        System.out.println("Basic Maven project with test");
+
+        FP functionOne = new FP();
+        functionOne.printFunction();
     }
 }
