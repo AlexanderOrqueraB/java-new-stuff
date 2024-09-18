@@ -4,10 +4,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>aorquerab</groupId>
-  <artifactId>java-artifact-id-example</artifactId>
+  <artifactId>maven</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>ChangeToProjectName</name>
+  <name>java-new-stuff</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
